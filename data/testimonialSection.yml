@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Client Testimonials
+title: >
+  ## What People Say about ELHQ?
+
+testimonial:
+  - name: Sarah Jones - CEO - Westview Technologies
+    comment: Knowing Eddie Hynes, the Managing Partner, is always only a call away is a huge reason we picked ELHQ as our solicitors. 
+    time: May 21, 2021
+    star: 5
+  - name: Alan Redmond - Head of Marketing - Johnson & Jones
+    comment: What sets ELHQ apart is its focus on giving practical advice to clients in a timely manner. 
+    time: June 1, 2021
+    star: 5
+  - name: Elaine Rogers - Head of Acquisitions - Inspire Media
+    comment: Conor Quane's knowledge, skill and technical expertise is unmatched. 
+    time: May 12, 2021
+    star: 4

@@ -1,0 +1,55 @@
+---
+enable: true
+topTitle: Team Background
+title: >
+  ## Where we came from
+
+  All of our team studied law in Ireland. Learn more about them here
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Bachelor in Law 
+    
+      Conor completed his masters in common law
+    time: Conor Quane 2012-2013
+  - content: >
+      #### Master in Law
+
+      Eddie Completed his masters in Law in Galway
+    time: Eddie Hynes 2011-2014
+  - content: >
+      #### Master in Law
+
+      Sam completed his masters in Maynooth
+    time: Samuel Elliot 2012-2015
+  - content: >
+      #### Bachelor of Business and Law
+
+      Kieran completed his Bachelors in Business and Law in UCD, before obtaining a Masters in Data Analytics at UCD. 
+    time: Kieran Lardner 2011-2015
+
+experience:
+  - content: >
+      #### Umbrella co. 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2016-Present
+  - content: >
+      #### Aperture Science 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2010-2016
+  - content: >
+      #### ACME Inc. 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2005-2010
+  - content: >
+      #### LexCorp 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2001-2005

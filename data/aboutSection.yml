@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: About our Firm
+title: >
+  ## What sets ELHQ apart
+
+  ELHQ was founded by four practising solicitors that wanted to build a firm for the future
+content: >
+  ### We bring you solutions
+
+  ELHQ is commited to combining industry-leading knowledge, skill and expertise with innovative legal technology to meet your legal needs
+button1Name: Hire us
+button2Name: Download our info sheet
+button1Target: contact
+button2Target: contact
+image: 

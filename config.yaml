@@ -1,0 +1,72 @@
+baseURL: http://example.org/
+languageCode: en-us
+paginate: 6
+theme: portio-hugo
+title: ELHQ Solicitors
+menu:
+  main:
+    - name: Home
+      url: '#home'
+      weight: 1
+    - name: About us
+      url: '#aboutus'
+      weight: 2
+    - name: Meet our Team
+      url: '#meetourteam'
+      weight: 3
+    - name: Practice Areas
+      url: '#practiceareas'
+      weight: 4
+    - name: Resume
+      url: '#resume'
+      weight: 5
+    - name: Blog
+      url: '#blog'
+      weight: 6
+    - name: Contact
+      url: '#contact'
+      weight: 7
+  sitemap:
+    - name: About me
+      url: about
+      weight: 1
+    - name: Frequently Ask Question
+      url: '#'
+      weight: 2
+    - name: Privacy & Policy
+      url: '#'
+      weight: 3
+    - name: Latest Article
+      url: '#'
+      weight: 4
+params:
+  address:
+    address: 1 Percy Place, Dublin 2, Dublin.
+    email: info@elhq.com
+    openingHours: Open from 10am to 6pm 
+    phone: +(353) 86 860 8807
+  blogPageURL: blog
+  contactLink: contact
+  copyright: All right reserved copyright © Kieran Lardner 2020
+  footerLogo: images/contact/widget-logo.png
+  formspreeURL: YOUR FORMSPREE URL
+  googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+  logo: images/site-navigation/logo2.png
+  map:
+    APIkey: YOUR GOOGLE MAP API
+    latitude: '53.337312'
+    longitude: '-6.240286'
+    pinImage: images/pin.png
+  social:
+    - icon: fa-facebook-official
+      url: https://www.facebook.com/
+      weight: 1
+    - icon: fa-linkedin-square
+      url: https://www.linkedin.com/
+      weight: 2
+    - icon: fa-pinterest-square
+      url: https://www.pinterest.com/
+      weight: 3
+    - icon: fa-twitter-square
+      url: https://twitter.com/ElhqSolicitors
+      weight: 4

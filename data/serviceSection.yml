@@ -1,0 +1,29 @@
+---
+enable: true
+topTitle: Why choose ELHQ
+title: >
+  ## What we can do for you
+
+  We believe there are a number of things that set us apart from the competition
+service:
+  - content: >
+      #### Practical advice when you need it 
+
+      We deliver succint and actionable advice when you need it and how you need it
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Market Insights
+
+      Monthly market insight reports from our team will help you stay on top of recent developments
+    image: images/service/web.svg
+  - content: >
+      #### Full suite of services
+
+      All of our team have significant experience advising clients in a wide range of practice areas
+    image: images/service/creative.svg
+  - content: >
+      #### Corporate Restructuring
+
+      Need to restructure your business? ELHQ is here to walk you through your options
+    image: images/service/branding.svg
+ 
