@@ -12,44 +12,44 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Bachelor in Law 
+      #### LLM - Harvard Law school
     
-      Conor completed his masters in common law
-    time: Conor Quane 2012-2013
+      Conor completed his undergraduate degree in the University of Oxford in 2012, before completing an LLM at Harvard Law School the following year.
+    time: Conor Quane 2009-2013
   - content: >
-      #### Master in Law
+      #### Masters in Asset Management - Queens University
 
-      Eddie Completed his masters in Law in Galway
-    time: Eddie Hynes 2011-2014
+      Eddie graduated from University College Cork, having studied Law and French. He then went on to attain a Masters in Asset Management from Queens University Belfast in 2013. 
+    time: Eddie Hynes 2009-2014
   - content: >
-      #### Master in Law
+      #### LLM in European Law- London School of Economics
 
-      Sam completed his masters in Maynooth
-    time: Samuel Elliot 2012-2015
+      Sam graduated from Dublin City University in 2015 withbefore attaining an LLM in European Law from the London School of Economics in 2017. 
+    time: Samuel Elliot 2009-2014
   - content: >
-      #### Bachelor of Business and Law
+      #### MSC - University College Dublin
 
-      Kieran completed his Bachelors in Business and Law in UCD, before obtaining a Masters in Data Analytics at UCD. 
-    time: Kieran Lardner 2011-2015
+      Kieran completed his Bachelors in Business and Law at University College Dublin, before obtaining a Masters in Data Analytics at the same university. 
+    time: Kieran Lardner 2009-2015
 
 experience:
   - content: >
-      #### Umbrella co. 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      #### Arthur Cox
+    
+      Conor qualified as a solicitor in 2017, completing his training with Arthur Cox. He has sinceworked with their Corporate team, advising clients on domestic and international M&A and financing transactions. 
+    time: Conor Quane 2013-2020
   - content: >
-      #### Aperture Science 
+      #### Matheson
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Eddie qualified as a solicitor in 2017, completing his training with Matheson. He completed seats in the Corporate, Litigation and Banking divisions. He has since worked with the firms M&A team, where he acted for buyers and sellers across various industry sectors. 
+    time: Eddie Hynes 2014-2020
   - content: >
-      #### ACME Inc. 
+      #### Matheson
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      Sam qualified as a solicitor in 2016, completing his training with Matheson. He has since worked with the Corporate team in Matheson, advising large multinational clients on their restructuring and establishment activities in Ireland.
+    time: Samuel Elliot 2014-2020
   - content: >
-      #### LexCorp 
+      #### McCann Fitzgerald
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Kieran completed his training with McCann Fitzgerald and was admitted to the roll of solicitors in 2017. He completed two seats in Mergers and Acquisitions as well as a seat in Employment and a seat in Insolvency. Since then, he has worked with the firm's legal technology team, with a focus on collecting and analyzing data to aid decision makers.
+    time: Kieran Lardner 2015-2020

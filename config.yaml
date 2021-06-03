@@ -20,8 +20,8 @@ menu:
     - name: Resume
       url: '#resume'
       weight: 5
-    - name: Blog
-      url: '#blog'
+    - name: Insights
+      url: '#Insights'
       weight: 6
     - name: Contact
       url: '#contact'

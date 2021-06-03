@@ -2,16 +2,16 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
+  ## Why hire us for your next project?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  Our goal is to build a strong supportive relationship with all of our clients and to help them reach their goals. Our client feedback surveys have consistently ranked us with the best in the country in the following categories.
 
-image: images/skill/skill_image.jpg
+image: images/about/lawyer.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Corporate
+    percent: 93
+  - title: Property
+    percent: 88
+  - title: Finance
+    percent: 95
