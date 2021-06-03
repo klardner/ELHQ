@@ -1,20 +1,14 @@
 ---
-challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-client: Edward Furlong
-date: "2020-07-13T12:49:27.000+06:00"
-service: Development, UX Design
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
-solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-thumbnail: images/portfolio/portfolio-1.png
-title: Case Study One
+challenge: Our client was looking to start their own business during Covid-19. Restrictions on movement and changes to the normal procedures meant the clients goal of getting up and running quickly was a big ask.
+client: Educo Technologies
+date: "2021-05-13T12:49:27.000+06:00"
+service: Startup, Company Formation
+shortDescription: Educo Technologies was founded with the aim of helping students learn from home during Covid-19
+solution: Our team advised the client on all of the different company formation procedures and how to handle them in light of Covid-19
+thumbnail: images/portfolio/boardroom.jpg
+title: Company Formation during a pandemic
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-Ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Case study info flesh out
+
+Case study info flesh out
