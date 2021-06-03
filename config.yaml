@@ -8,23 +8,23 @@ menu:
     - name: Home
       url: '#home'
       weight: 1
-    - name: About us
-      url: '#aboutus'
-      weight: 2
     - name: Meet our Team
-      url: '#meetourteam'
-      weight: 3
+      url: '#resume'
+      weight: 2
     - name: Practice Areas
       url: '#practiceareas'
+      weight: 3
+    - name: Case studies
+      url: '#portfolio'
       weight: 4
-    - name: Resume
-      url: '#resume'
-      weight: 5
     - name: Insights
-      url: '#Insights'
+      url: '#blog'
+      weight: 5
+    - name: Testimonials
+      url: '#testimonial'
       weight: 6
     - name: Contact
-      url: '#contact'
+      url: 'contact'
       weight: 7
   sitemap:
     - name: About me
@@ -53,7 +53,7 @@ params:
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo2.png
   map:
-    APIkey: YOUR GOOGLE MAP API
+    APIkey: AIzaSyCzbR0U-eFsOhFP9v8Zr7IMQkHRXhTiLdA
     latitude: '53.337312'
     longitude: '-6.240286'
     pinImage: images/pin.png
@@ -70,3 +70,8 @@ params:
     - icon: fa-twitter-square
       url: https://twitter.com/ElhqSolicitors
       weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
