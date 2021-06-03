@@ -11,32 +11,26 @@ menu:
     - name: Meet our Team
       url: '#resume'
       weight: 2
-    - name: Practice Areas
-      url: '#practiceareas'
-      weight: 3
     - name: Case studies
       url: '#portfolio'
-      weight: 4
+      weight: 3
     - name: Insights
       url: '#blog'
-      weight: 5
+      weight: 4
     - name: Testimonials
       url: '#testimonial'
-      weight: 6
-    - name: Contact
-      url: 'contact'
-      weight: 7
+      weight: 5
   sitemap:
-    - name: About me
-      url: about
+    - name: Cookies Policy
+      url: '#'
       weight: 1
-    - name: Frequently Ask Question
+    - name: Frequently Asked Questions
       url: '#'
       weight: 2
     - name: Privacy & Policy
       url: '#'
       weight: 3
-    - name: Latest Article
+    - name: Careers at ELHQ
       url: '#'
       weight: 4
 params:
@@ -48,7 +42,7 @@ params:
   blogPageURL: blog
   contactLink: contact
   copyright: All right reserved copyright © Kieran Lardner 2020
-  footerLogo: images/contact/widget-logo.png
+  footerLogo: images/site-navigation/logo2.png
   formspreeURL: YOUR FORMSPREE URL
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo2.png
@@ -59,17 +53,11 @@ params:
     pinImage: images/pin.png
   social:
     - icon: fa-facebook-official
-      url: https://www.facebook.com/
+      url: https://www.facebook.com/ELHQ-Solicitors-108084114825528
       weight: 1
-    - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
-      weight: 2
-    - icon: fa-pinterest-square
-      url: https://www.pinterest.com/
-      weight: 3
     - icon: fa-twitter-square
       url: https://twitter.com/ElhqSolicitors
-      weight: 4
+      weight: 2
 
 markup:
   goldmark:
